@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(200, 186, 200);
+    font: 14px sans-serif; text-align: center;
+}
+
+.wrapper {
+    width: 360px;
+    padding: 20px;
+}
